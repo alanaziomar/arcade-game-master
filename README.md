@@ -13,8 +13,7 @@ unzip the file.
 
 Thirdly,
 open  index.html
-how to paly the game?
- Use the arrow keys to navigate towards  the water. Avoid the bugs along the way!
+and start palying the game by  Using the arrow keys to navigate towards the water and avoid the bugs along the way!
 
 finally,
 **role of Successes and Misses**
